@@ -79,7 +79,6 @@ def build_portfolio_report(portfolio):
             f"{value:,.2f}",
         ])
 
-    # A blank row separates the holdings from the total.
     rows.append(["", "", "", "", ""])
     rows.append([
         "",
