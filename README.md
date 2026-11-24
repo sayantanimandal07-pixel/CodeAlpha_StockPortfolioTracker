@@ -116,9 +116,6 @@ Through this project, I practised:
 ## 👩‍💻 Author
 
 **Sayantani Mandal**
-
-GitHub: [sayantanimandal07-pixel](https://github.com/sayantanimandal07-pixel)
-
 ---
 
 *This project was developed as a practical Python programming task to strengthen fundamental programming and file-handling concepts.*
