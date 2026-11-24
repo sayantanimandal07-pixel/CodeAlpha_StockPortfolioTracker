@@ -31,11 +31,10 @@ It also provides an option to save portfolio details in a CSV file for future re
 ## 📂 Project Structure
 
 ```text
-StockPortfolioTracker/
+CodeAlpha_StockPortfolioTracker/
 │
-├── stock_tracker.py
+├── StockProtfolio.py
 ├── README.md
-└── portfolio.csv
 ```
 
 ## 🚀 How to Run
@@ -49,13 +48,13 @@ git clone YOUR_GITHUB_REPOSITORY_URL
 **2. Navigate to the project folder**
 
 ```bash
-cd StockPortfolioTracker
+cd CodeAlpha_StockPortfolioTracker
 ```
 
 **3. Run the Python program**
 
 ```bash
-python stock_tracker.py
+python StockPortfolio.py
 ```
 
 ## 💻 Sample Stock Prices
